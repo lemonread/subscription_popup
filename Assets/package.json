@@ -1,0 +1,42 @@
+{
+  "name": "com.inceptionxr.subscriptionpopupsbundles",
+  "displayName": "SubscriptionPopupsBundles",
+  "author": {
+	"name": "InceptionXR"
+  },
+  "unity": "2019.4",
+  "description": "InceptionXR SubscriptionPopupsBundles package",
+  "version": "1.0.0",
+  "scopedRegistries": [{
+        "name": "Inception XR",
+        "url": "https://registry.inceptionxr.com",
+        "scopes": [
+            "com.inceptionxr"
+        ]
+    },
+    {
+      "name": "Game Package Registry by Google",
+      "url": "https://unityregistry-pa.googleapis.com",
+      "scopes": [
+        "com.google"
+      ]
+    }
+],
+    "dependencies": {
+      "com.unity.vectorgraphics": "2.0.0-preview.12",
+      "com.inceptionxr.phoenixservices": "1.2.1-preview.69.0",
+      "com.inceptionxr.uitools": "1.1.1-preview.172.0",
+      "com.inceptionxr.generalutils": "1.0.1-preview.61.0",
+      "com.inceptionxr.networkuihelpers" :"1.0.1-preview.2.0",
+      "com.inceptionxr.asyncoroutine" : "1.0.3-preview.5.0",
+      "com.inceptionxr.unitycustomization": "3.0.1-preview.57.0",
+      "com.inceptionxr.naughtyattributes": "1.0.1-preview.6.0",
+      "com.inceptionxr.unibus" : "1.0.2-preview.11.0",
+      "com.inceptionxr.englishfonts" : "1.0.1-preview.10.0",
+      "com.inceptionxr.inapppurchase" :"1.1.3-preview.15.0",
+	    "com.inceptionxr.inceptionplugins": "2.0.1-preview.25.0",
+      "com.inceptionxr.network": "1.1.3-preview.69.0",
+      "com.inceptionxr.jsondotnet": "1.0.1-preview.6.0",
+      "com.unity.textmeshpro": "2.0.1"
+    }
+}

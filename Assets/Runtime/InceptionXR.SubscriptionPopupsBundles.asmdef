@@ -1,0 +1,27 @@
+{
+    "name": "inceptionxr.subscriptionpopupsbundles",
+    "references": [
+        "InceptionXR.GeneralUtils",
+        "InceptionXR.UITools",
+        "com.inceptionxr.phoenixservices",
+        "com.inceptionxr.naughtyattributes",
+        "inceptionxr.inapppurchase",
+        "Unity.VectorGraphics",
+        "InceptionXR.Network",
+        "com.inceptionxr.jsondotnet",
+        "Unity.TextMeshPro",
+        "inceptionxr.networkuihelpers",
+        "InceptionXR.Asyncoroutine",
+        "InceptionXR.Unibus",
+        "com.inceptionxr.inceptionplugins"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
